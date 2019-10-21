@@ -1,13 +1,13 @@
 /*
  * @Author: your name
  * @Date: 2019-10-20 20:41:03
- * @LastEditTime: 2019-10-20 22:01:47
+ * @LastEditTime: 2019-10-21 18:23:18
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /leetcode/1_easy_two-sum.java
  */
 
-package _1_easy_two_sum;
+package _1_two_sum;
 
 import java.util.Arrays;
 import java.util.HashMap;

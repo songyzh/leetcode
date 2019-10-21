@@ -7,7 +7,7 @@
  * @FilePath: /leetcode/7_easy_reverse-integer/Solution.java
  */
 
-package _7_easy_reverse_integer;
+package _7_reverse_integer;
 
 // https://leetcode.com/problems/reverse-integer/
 // 思路:
