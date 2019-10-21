@@ -1,7 +1,7 @@
 /*
  * @Author: your name
  * @Date: 2019-10-20 21:16:32
- * @LastEditTime: 2019-10-20 22:03:12
+ * @LastEditTime: 2019-10-21 18:22:09
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /leetcode/9_easy_palindrome-number/Solution.java
@@ -16,7 +16,7 @@
 // 或者新构建的数, 大于剩余的, 且/10后二者相等
 // 则为true
 
-package _9_easy_palindrome_number;
+package _9_palindrome_number;
 
 class Solution {
     public boolean isPalindrome(int x) {
