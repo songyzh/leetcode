@@ -4,6 +4,13 @@
             "type": "java",
             "name": "CodeLens (Launch) - Solution",
             "request": "launch",
+            "mainClass": "_69_sqrt_x.Solution",
+            "projectName": "leetcode_230feb20"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Solution",
+            "request": "launch",
             "mainClass": "_53_maximum_subarray.Solution",
             "projectName": "leetcode_230feb20"
         },
