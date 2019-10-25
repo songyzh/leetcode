@@ -1,11 +1,13 @@
+package _83_remove_duplicates_from_sorted_list;
 /*
  * @Author: your name
  * @Date: 2019-10-23 18:29:14
- * @LastEditTime: 2019-10-23 18:42:34
+ * @LastEditTime: 2019-10-25 15:50:55
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /leetcode/_83_remove_duplicates_from_sorted_list/Solution.java
  */
+
 // https://leetcode.com/problems/remove-duplicates-from-sorted-list/
 
 // 思路:
@@ -15,7 +17,7 @@
  * Definition for singly-linked list. public class ListNode { int val; ListNode
  * next; ListNode(int x) { val = x; } }
  */
-public class ListNode {
+class ListNode {
     int val;
     ListNode next;
 
