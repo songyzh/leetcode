@@ -4,6 +4,34 @@
             "type": "java",
             "name": "CodeLens (Launch) - Solution",
             "request": "launch",
+            "mainClass": "_198_house_robber.Solution",
+            "projectName": "leetcode_230feb20"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Solution",
+            "request": "launch",
+            "mainClass": "_190_reverse_bits.Solution",
+            "projectName": "leetcode_230feb20"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Solution",
+            "request": "launch",
+            "mainClass": "_189_rotate_array.Solution",
+            "projectName": "leetcode_230feb20"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Solution",
+            "request": "launch",
+            "mainClass": "_168_excel_sheet_column_title.Solution",
+            "projectName": "leetcode_230feb20"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Solution",
+            "request": "launch",
             "mainClass": "_125_valid_palindrome.Solution",
             "projectName": "leetcode_230feb20"
         },
