@@ -4,6 +4,48 @@
             "type": "java",
             "name": "CodeLens (Launch) - Solution",
             "request": "launch",
+            "mainClass": "_290_word_pattern.Solution",
+            "projectName": "leetcode_230feb20"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Solution",
+            "request": "launch",
+            "mainClass": "_283_move_zeroes.Solution",
+            "projectName": "leetcode_230feb20"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Solution",
+            "request": "launch",
+            "mainClass": "_258_add_digits.Solution",
+            "projectName": "leetcode_230feb20"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Solution",
+            "request": "launch",
+            "mainClass": "_219_contains_duplicate_ii.Solution",
+            "projectName": "leetcode_230feb20"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Solution",
+            "request": "launch",
+            "mainClass": "_205_isomorphic_strings.Solution",
+            "projectName": "leetcode_230feb20"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Solution",
+            "request": "launch",
+            "mainClass": "_204_count_primes.Solution",
+            "projectName": "leetcode_230feb20"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Solution",
+            "request": "launch",
             "mainClass": "_198_house_robber.Solution",
             "projectName": "leetcode_230feb20"
         },
