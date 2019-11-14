@@ -4,7 +4,7 @@ package __95_unique_binary_search_trees_ii;
  *
  * @Date: 2019-11-11 16:37:38
  *
- * @LastEditTime: 2019-11-14 12:58:08
+ * @LastEditTime: 2019-11-14 12:59:31
  *
  * @LastEditors: Please set LastEditors
  *
@@ -68,9 +68,5 @@ class Solution {
             }
         }
         return ret;
-    }
-
-    public static void main(String[] args) {
-
     }
 }
