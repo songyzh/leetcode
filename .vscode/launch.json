@@ -4,6 +4,55 @@
             "type": "java",
             "name": "CodeLens (Launch) - Solution",
             "request": "launch",
+            "mainClass": "_60_permutation_sequence.Solution",
+            "projectName": "leetcode_230feb20"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Solution",
+            "request": "launch",
+            "mainClass": "_59_spiral_matrix_ii.Solution",
+            "projectName": "leetcode_230feb20"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Solution",
+            "request": "launch",
+            "mainClass": "__56_merge_intervals.Solution",
+            "projectName": "leetcode_230feb20"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Solution",
+            "request": "launch",
+            "mainClass": "_47_permutations_ii.Solution",
+            "projectName": "leetcode_230feb20"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Solution",
+            "request": "launch",
+            "mainClass": "_55_jump_game.Solution",
+            "projectName": "leetcode_230feb20"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Solution",
+            "request": "launch",
+            "mainClass": "_43_multiply_strings.Solution",
+            "projectName": "leetcode_230feb20"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Solution",
+            "request": "launch",
+            "mainClass": "_48_rotate_image.Solution",
+            "projectName": "leetcode_230feb20"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Solution",
+            "request": "launch",
             "mainClass": "_31_next_permutation.Solution",
             "projectName": "leetcode_230feb20"
         },
