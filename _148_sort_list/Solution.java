@@ -8,7 +8,7 @@ package _148_sort_list;
  *
  * @LastEditors: syzh
  *
- * @LastEditTime: 2019-11-20 17:21:34
+ * @LastEditTime: 2019-11-20 17:34:58
  *
  * @FilePath: /leetcode/_148_sort_list/Solution.java
  *
@@ -83,7 +83,7 @@ public class Solution {
 
 }
 
-// class Solution1 {
+// class Solution {
 // public ListNode sortList(ListNode head) {
 // if (head == null || head.next == null) {
 // return head;
@@ -92,6 +92,7 @@ public class Solution {
 // ListNode fast = head;
 
 // // 此代码会报错, 需要把下面改成while (fast.next != null && fast.next.next != null)
+// // 因为无法处理长度为2的情况
 // while (fast != null && fast.next != null) {
 // slow = slow.next;
 // fast = fast.next.next;
