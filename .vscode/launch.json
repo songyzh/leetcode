@@ -4,6 +4,20 @@
             "type": "java",
             "name": "CodeLens (Launch) - Solution",
             "request": "launch",
+            "mainClass": "_165_compare_version_numbers.Solution",
+            "projectName": "leetcode_230feb20"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Solution",
+            "request": "launch",
+            "mainClass": "_152_maximum_product_subarray.Solution",
+            "projectName": "leetcode_230feb20"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Solution",
+            "request": "launch",
             "mainClass": "_91_decode_ways.Solution",
             "projectName": "leetcode_230feb20"
         },
